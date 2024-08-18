@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/model/Product.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/controller/AddToCart.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/controller/ShowCartControl.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/model/Category.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/controller/HomeControl.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/web/home.jsp</file>
+            <file>file:/C:/MyWeb/FinalWebProject/web/WEB-INF/web.xml</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/dao/CartItemDao.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/dao/ProductDao.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/dao/CategoryDao.java</file>
+            <file>file:/C:/MyWeb/FinalWebProject/src/java/laptrinh/com/dao/CartDao.java</file>
+        </group>
+    </open-files>
+</project-private>

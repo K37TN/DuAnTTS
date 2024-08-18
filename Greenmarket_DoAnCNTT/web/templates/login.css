@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#background{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(2, 116, 2), #6ab760); 
+}
+.fa-home{
+    position: absolute;
+    top: 0;
+    font-size: 2em;
+    color: white;
+    padding: 0.5em 0.2em 0 3em;
+}
+.backhome{
+    line-height: 2em;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 0;
+}
+.login{
+    width: 30em;
+    height: 37.5em;
+    padding: 3em 1em;
+    margin: auto 1em;
+    border-radius: 1em;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login h2{
+    line-height: 1.5em;
+}
+
+.login .logo-login{
+    text-align: center;
+}
+
+.login .logo-login img{
+    width: 4em;
+    height: 4em;
+    text-align: center;
+}
+
+.login .title-login{
+    text-align: center;
+    margin: 1.5em 0;
+}
+
+.login .input-user{
+    max-width: 20em;
+    margin: auto;
+    border-radius: 2em;
+    background-color: white;
+    border: 0.1em solid #6ab760;
+}
+
+.login .input-password{
+    max-width: 20em;
+    margin: 1.5em auto 0 auto;
+    border-radius: 2em;
+    background-color: white;
+    border: 0.1em solid #6ab760;
+}
+
+.login input{
+    width: 16em;
+    border: none;
+    outline: none;
+    line-height: 2.5em;
+}
+
+.login i{
+    margin: auto 1em;
+    color: #6ab760;
+}
+
+.login .btn-login{
+    text-align: center;
+}
+
+.login button{
+    border: none;
+    font-size: 1em;
+    padding: 0.5em 2em;
+    margin: 1.5em auto 0 auto;
+    border-radius: 2em;
+    cursor: pointer;
+    color: white;
+    background-color: #6ab760;
+}
+
+.login .link-register{
+    margin-top: 2em;
+    text-align: center;
+}
+
+.login .or{
+    margin-top: 2em;
+    text-align: center;
+    color: gray;
+}
+
+.login .link-register a{
+    text-decoration: none;
+    color: #6ab760;
+    font-weight: bold;
+}
+
+.login .other-login ul{
+    margin-top: 2em;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+	text-align: center;
+}
+
+.login .other-login ul i{
+    font-size: 2em;
+}
+

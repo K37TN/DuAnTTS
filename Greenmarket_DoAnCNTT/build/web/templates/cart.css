@@ -1,0 +1,23 @@
+.shopping-cart{
+    padding-top: 100px;
+}
+.p-4 label{
+    display: block;
+    font-weight: bold;
+}
+.p-4 input{
+    width: 490px;
+    margin-bottom: 30px;
+}
+.p-4 a{
+    background-color: #0AAD0A;
+    color: white;
+}
+.p-4 a:hover{
+    background-color: #0ecc0e;
+    color: white;
+}
+.order{
+    padding: 10px 30px;
+}
+
